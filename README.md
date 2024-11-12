@@ -16,10 +16,12 @@ Welcome to the **Indian Meal API**! This API provides a collection of popular In
    - **Description**: Fetches a list of all available Indian meal recipes.
    - **Response**: A list of recipe objects, each containing the recipe name, ingredients, and preparation steps.
      
-### 1. **Get Seached Recipes**
+### 2. **Get Seached Recipes**
    - **Endpoint**: `/api/recipe?q=`
    - **Method**: `GET`
    - **Description**: Fetches searched available Indian meal recipes.
    - **Response**: searched recipe objects,  containing the recipe name, ingredients, and preparation steps.
+
+#Website Url : - https://your-indian-meal-61at.onrender.com/
    
   
